@@ -1,0 +1,22 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+nav { 
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  ul { 
+    display: flex; 
+  }
+  
+  li { 
+    list-style: none;
+    margin-right: 10px;
+  }
+  
+  a { 
+    text-decoration: none;
+    color: white;
+  }

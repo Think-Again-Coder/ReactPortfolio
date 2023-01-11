@@ -3,8 +3,12 @@ $primary-color: darkBlue;
 @import 'animate.css';
 
 @font-face {
-  font-family: '';
-  src: url();
+  font-family: 'Roboto';
+  src: url('../Assets/fonts/Roboto-BoldCondensed.ttf') format('ttf');
 }
 
+input,
+textarea {
+  font-family: "Roboto";
+}
 //Need to find the right font in font.

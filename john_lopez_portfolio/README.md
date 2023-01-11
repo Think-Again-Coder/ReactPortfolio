@@ -9,24 +9,19 @@ This application was created to showcase the projects of a web developer using R
 
 ## *Process:*
 
-This application includes five different React components to create the structure of the page. 
+This application is put together with some packages like Sass, Font Awesome, Fort Awesome SVG Icons, and includes five main React components to create the structure of the pages. The sections included are the Header, Navigation, Footer, Project, and general Layout.
 
 The images here represents an example of the portfolio.  
 
-![Portfolio Images](/Assets)
-
-![Portfolio Images](/Assets)
-
-![Portfolio Images](/Assets)
+![Portfolio Images](/Assets/Images/portfolioWelcome.png)
 
 
 ### Summary: 
 
-This was a fun project and allowed me to build a React application with some style. 
+The aspect of building individual components for a website definitely makes things easier to plan out. I had to work my way through many errors before I could get something to show. Most of the components have been built out but not detailed enough to show what overall design should be. 
 
 
 --- 
-**Check out the deployed application:**
 ## 
 [React Portfolio](https://github.com/Think-Again-Coder/ReactPortfolio/tree/main/john_lopez_portfolio) <--- Click Here!
 ## 

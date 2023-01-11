@@ -1,7 +1,7 @@
 import './index.scss';
 
 const Layouts = () => {
-    return <>Hello John</>
+    return <>Hello, I am John Lopez </>
 }
 
 export default Layouts;

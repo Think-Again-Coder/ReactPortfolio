@@ -1,9 +1,9 @@
 html {
-  font-size: large;
+  font-size: 30px;
 }
 
 body {
-  margin: 0;
+  margin: 2;
   overflow: hidden;
   display: block;
   font-family: 'Helvetica Neue',
