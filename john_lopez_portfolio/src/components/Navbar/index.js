@@ -1,5 +1,5 @@
 import React from "react";
-// import { ReactDOM } from "react";
+import { ReactDOM } from "react";
 // import * as servicWorker from '.serviceWorker';
 
 const Navbar = () => {
