@@ -13,7 +13,7 @@ This application is put together with some packages like Sass, Font Awesome, For
 
 The images here represents an example of the portfolio.  
 
-![Portfolio Images](/john_lopez_portfolio/Assets/Images/portfolioWelcome.png)
+![Portfolio Images](Assets/Images/portfolioWelcome.png)
 
 
 ### Summary: 
